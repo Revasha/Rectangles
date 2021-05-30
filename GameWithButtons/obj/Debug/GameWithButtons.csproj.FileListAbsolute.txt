@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\bin\Debug\GameWithButtons.exe.config
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\bin\Debug\GameWithButtons.exe
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\bin\Debug\GameWithButtons.pdb
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.exe
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.pdb
+C:\Users\Lenovo\Downloads\Rectangles-main\GameWithButtons\obj\Debug\GameWithButtons.GameForm.resources
